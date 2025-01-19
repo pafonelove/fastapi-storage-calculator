@@ -1,0 +1,10 @@
+.venv/
+idea
+/.idea/vcs.xml
+/.idea/work4.iml
+/.idea/workspace.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/modules.xml
+/.idea/misc.xml
+/.idea/lab2.iml
+/pyvenv.cfg
